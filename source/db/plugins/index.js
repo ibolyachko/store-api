@@ -1,0 +1,1 @@
+export { addHash } from './addHash';
