@@ -1,13 +1,13 @@
 # Store API
 
 ### Technology Stack:
-* ### Node.js/Express.js
-* ### MongoDB/Mongoose
-* ### JWT
-* ### Jest
-* ### Webpack
+  * #### Node.js/Express.js
+  * #### MongoDB/Mongoose
+  * #### JWT
+  * #### Jest
+  * #### Webpack
 
-### API Endpoints:
+### Endpoints:
 * __`/auth`__ Endpoints for authorization
   * __`POST`__ `/auth/login` Login an employee
 
